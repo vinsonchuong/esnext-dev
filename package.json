@@ -1,7 +1,7 @@
 {
   "name": "esnext-dev",
   "version": "0.0.1",
-  "description": "",
+  "description": "A seamless development workflow for ES.next",
   "keywords": [],
   "homepage": "https://github.com/vinsonchuong/esnext-dev",
   "bugs": "https://github.com/vinsonchuong/esnext-dev/issues",
@@ -25,7 +25,6 @@
     "test": "eslint && jasmine"
   },
   "dependencies": {
-    "node-promise-es6": "^0.3.2"
   },
   "devDependencies": {
     "dist-es6": "^0.1.15",

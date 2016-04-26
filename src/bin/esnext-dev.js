@@ -1,2 +1,1 @@
-import run from 'esnext-dev';
-run();
+process.stdout.write('Hello World!\n');
